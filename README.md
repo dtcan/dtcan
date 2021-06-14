@@ -6,6 +6,4 @@ My name is David Canagasabey, and I'm a full-stack web developer. The projects I
 
 I've also done contract work over two summers on a personal budgeting app, **MoneyPod.ca**. Check it out [here](https://moneypod.ca).
 
-I am currently looking for work. If you are looking to hire a web developer, please email me at [david@dtcan.dev](mailto:david@dtcan.dev).
-
 If you have the time, please visit [my portfolio](https://dtcan.dev) to learn more about me and what I've done!
